@@ -4,7 +4,7 @@
 
 **An MVP decentralized exchange (DEX) and Web3 product studio on The Open Network (TON).**
 
-[![Website](https://img.shields.io/badge/Web-terminus.finance-0098EA?style=for-the-badge)](https://terminus.finance)
+[![Website](https://img.shields.io/badge/Web-terminus.pw-0098EA?style=for-the-badge)](https://terminus.pw/)
 
 </div>
 
@@ -52,5 +52,5 @@ Welcome to our GitHub — Web3 projects by Terminus!
 
 ### 👨‍💻 Issues and bug bounty
 - You can post issues about products here: https://github.com/TerminusFinance/.github/issues
-- Please send any questions related to security to: https://terminus.finance/
+- Please send any questions related to security to: https://terminus.pw/
 - To connect Terminus Pay payments, please study the documentation https://terminus.pw/
