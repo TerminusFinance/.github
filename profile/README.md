@@ -45,10 +45,6 @@ Welcome to our GitHub — Web3 projects by Terminus!
 - [Telegram — Community](https://t.me/TerminusDEX)
 - [Telegram — Other News](https://t.me/TerminusFinance)
 - [VK — Community](https://vk.com/terminusfinance)
-- [Figma — Portfolio](https://www.figma.com/@gusev)
-- [Medium — Blog](https://mediaboss.medium.com/)
-- [VC — Blog](https://vc.ru/gusev)
-- [Teletype — Blog](https://teletype.in/@gusevlife)
 
 ### 👨‍💻 Issues and bug bounty
 - You can post issues about products here: https://github.com/TerminusFinance/.github/issues
